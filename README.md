@@ -3,5 +3,5 @@ I am a developer from Argentina. I am still in high school and plan to pursue a 
 
 Technology and programming have fascinated me for as long as I can remember. If you want to know a little more about me:
 
-![](https://i.imgur.com/TGpsbkG.png)
+![](https://i.imgur.com/eJ3Qihe.png)
 
