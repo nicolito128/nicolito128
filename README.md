@@ -8,6 +8,4 @@ I'm a developer from Argentina. I am still in high school and plan to pursue a d
 * **Discord**: n128#5523
 
 --------------------------------------------------------
-![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolito128&hide=contribs&show_icons=true&theme=vue&count_private=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolito128&theme=vue&layout=compact)
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolito128&hide=contribs&show_icons=true&theme=vue&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolito128&theme=vue&layout=compact)
