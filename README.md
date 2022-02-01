@@ -1,10 +1,11 @@
 # Hi 👋, I'm Nico. Howdy do!
-I'm a developer from Argentina. I am still in high school and plan to pursue a degree in Systems Analysis. Technology and programming have fascinated me for as long as I can remember.
+I am a developer from Argentina. I try to improve my programming skills day by day to create awesome applications that solve, even a little bit, people's lives. I am currently studying a "Tecnicatura Universitaria en Programación".
 
 ## Social Media
 
 * [**Twitter**](https://twitter.com/nicolito128)
 * [**Instagram**](https://www.instagram.com/nicolito.serna/)
+* [**Linkedin**](https://www.linkedin.com/in/nicolas-abel-serna)
 * **Discord**: n128#5523
 
 --------------------------------------------------------
