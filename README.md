@@ -3,7 +3,6 @@ I'm a developer from Argentina. I try to improve my programming skills day by da
 
 ## Social Media
 
-* [**Twitter**](https://twitter.com/nicolito128)
 * [**Instagram**](https://www.instagram.com/nicolito.serna/)
 * [**Linkedin**](https://www.linkedin.com/in/nicolas-abel-serna)
 * **Discord**: n128#5523
