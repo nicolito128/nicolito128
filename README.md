@@ -4,7 +4,6 @@ I'm an Argentinean developer. I'm currently studying a “Tecnicatura Superior e
 
 ## Social Media
 
-* [**Instagram**](https://www.instagram.com/nicolito.serna/)
 * [**Linkedin**](https://www.linkedin.com/in/nicolas-abel-serna)
 
 --------------------------------------------------------
