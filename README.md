@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nico
 
-I'm an Argentinean developer. I'm currently studying a “Tecnicatura Superior en Análisis de Sistemas” (Higher Degree in Systems Analysis) in my hometown General Güemes, Salta. I love learning computer science and taking on new challenges every day.
+I'm an Argentinean developer. I'm currently studying a “Tecnicatura Superior en Análisis de Sistemas” (Higher Degree in Systems Analysis) in my hometown. I love learning computer science and taking on new challenges every day.
 
 ## Social Media
 
